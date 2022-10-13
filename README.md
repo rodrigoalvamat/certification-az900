@@ -14,7 +14,7 @@ Source: [Microsoft Certifications Website](https://learn.microsoft.com/en-us/cer
 
 ## Study Guide
 
-Download the [AZ-900 study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY) to help you prepare for the exam.
+Download the [AZ-900 study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY) to help you prepare for the exam.
 
 The English language version of this exam will be updated on October 28, 2022.
 
@@ -44,4 +44,4 @@ Each Cheat Sheet was exported in three different formats (PDF, PNG, and JPG) acc
 
 9. Privacy, Compliance and Trust
 
-10. Princing
+10. Pricing
